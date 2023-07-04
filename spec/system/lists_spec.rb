@@ -78,7 +78,7 @@ describe "投稿のテスト" do
     end
   end
   
-  describe '編集画面のテスト' do
+  describe "編集画面のテスト" do
     before do
       visit edit_list_path(list)
     end
